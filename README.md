@@ -8,4 +8,4 @@ Installation : The code is written using Visual Code Studio. It can also install
 3. Sublime Text (Text editor)
 4. vim (Text editor)
 
-Usage: 
+Usage: Fun and Entertainment
