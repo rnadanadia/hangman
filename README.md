@@ -9,3 +9,5 @@ Installation : The code is written using Visual Code Studio. It can also install
 4. vim (Text editor)
 
 Usage: Fun and Entertainment
+
+By : Rosyidah Nadia
